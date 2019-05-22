@@ -1,0 +1,7 @@
+Three trends:
+
+1) Women spend more than men. Women actually spend ~6% more per transaction than men on average. Despite their lower population, they should be taken seriously as they are a higher revenue population. They spend almost 10% more than their male counterparts per person as well.
+
+2)Number of purchases steadily rise per age group until past 20-24 years old where there's a sudden sharp drop. Most of the players (almost 80%) are between the age of 15 and 29.
+
+3) Not only are 20-24 the highest percent demographic group, they're also the top spenders. With an average purchase price of $4.32. While the age group of 30-39 and the <10 are technically higher, those are probably outliers. Children under the age of 10 are probably using their parents credit cards and splurging recklessly while those in the age group of 30-39 will probably have high income so it wouldn't be surprising for a whale in that age group to skew the data on money spent. We can even see the average purchase price to be $3.60, a whole 60 cents or %20 above the norm of $3.00 seen in other age groups. This is, once again, only seen in the <10 years old bucket of $3.35 average purchase price, a ~12% increase over the mean seen in other groups.
